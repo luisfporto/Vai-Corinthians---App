@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.VaiCorinthiansApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/corinthians_white</item>
+        <item name="colorOnPrimary">@color/corinthians_black</item>
+        <item name="colorSurface">@color/corinthians_black</item>
+        <item name="colorOnSurface">@color/corinthians_white</item>
+        <item name="android:colorBackground">@color/corinthians_black</item>
+        <item name="android:textColor">@color/corinthians_white</item>
+        <item name="android:textColorPrimary">@color/corinthians_white</item>
+        <item name="android:textColorSecondary">@color/color_text_secondary</item>
+    </style>
+
+    <style name="Theme.VaiCorinthiansApp" parent="Base.Theme.VaiCorinthiansApp" />
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Vai Corinthians App</string>
+    <string name="nav_home">Resultados</string>
+    <string name="nav_squad">Elenco</string>
+    <string name="nav_trivia">Curiosidades</string>
+    <string name="nav_titles">Títulos</string>
+    
+    <!-- Home Strings -->
+    <string name="title_latest_results">Últimos Resultados</string>
+    <string name="title_season_stats">Estatísticas da Temporada</string>
+    <string name="stats_wins">Vitórias: %d</string>
+    <string name="stats_draws">Empates: %d</string>
+    <string name="stats_losses">Derrotas: %d</string>
+    <string name="stats_goals_for">Gols Prós: %d</string>
+    <string name="stats_goals_against">Gols Contra: %d</string>
+
+    <!-- Squad Strings -->
+    <string name="title_squad">Elenco Atual</string>
+    <string name="title_player_details">Perfil do Jogador</string>
+
+    <!-- Trivia Strings -->
+    <string name="title_trivia">Curiosidades Históricas</string>
+
+    <!-- Titles Strings -->
+    <string name="title_trophies">Galeria de Títulos</string>
+</resources>

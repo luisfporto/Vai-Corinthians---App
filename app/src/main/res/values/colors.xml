@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="corinthians_black">#000000</color>
+    <color name="corinthians_white">#FFFFFF</color>
+    <color name="corinthians_gray">#222222</color>
+    <color name="corinthians_light_gray">#444444</color>
+    <color name="color_text_secondary">#CCCCCC</color>
+</resources>
